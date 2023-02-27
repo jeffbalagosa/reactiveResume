@@ -1,0 +1,392 @@
+{
+    "basics": {
+        "name": "Jeffrey Balagosa",
+        "email": "jeff.balagosa@gmail.com",
+        "phone": "",
+        "photo": {
+            "url": "https://cdn.rxresu.me/uploads/346112/343766/1677529326587.png",
+            "filters": {
+                "size": 128,
+                "shape": "square",
+                "border": false,
+                "grayscale": false
+            },
+            "visible": true
+        },
+        "summary": "Experienced Desktop Support Manager with 18+ years of technical leadership and management skills. Seeking transition to Web Development. Proficient in HTML, CSS, JavaScript, and Python, with a strong understanding of operating systems and network architecture. Skilled in project management and cross-functional collaboration. Passionate about learning new technologies and frameworks.",
+        "website": "https://grapplingwithsyntax.com/",
+        "headline": "Professional IT Expert",
+        "location": {
+            "city": "Las Vegas",
+            "region": "NV",
+            "address": "9629 Preston Hill St",
+            "country": "USA",
+            "postalCode": "8978"
+        },
+        "profiles": [],
+        "birthdate": ""
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "Work Experience",
+            "type": "work",
+            "items": [
+                {
+                    "id": "0cfbbb81-f7d5-4bc5-bff6-758bc0c5ef60",
+                    "date": {
+                        "end": "",
+                        "start": "2019-07-01T00:00:00.000Z"
+                    },
+                    "name": "Vegas.com",
+                    "summary": "• Developed custom tools to automate tasks and improve efficiency, leveraging programming languages such as JavaScript, Python, PowerShell, AutoHotkey, and Ansible. • Managed a desktop support team, motivating them to complete assigned tasks before deadlines. • Implemented and deployed endpoint management systems to ensure the smooth operation of company workstations. • Reviewed and provided technical support for team tickets and phone calls. • Conducted research, ordered, and deployed new hardware and software for desktop systems, printers, scanners, and other peripherals. • Maintained security updates for company workstations and non-production servers while ensuring that computing standards met PCI requirements for audits.",
+                    "position": "Desktop Support Manager"
+                },
+                {
+                    "id": "de366cbd-a1af-4706-bc43-22774dd69e0c",
+                    "date": {
+                        "end": "2019-07-01T00:00:00.000Z",
+                        "start": "2018-06-01T00:00:00.000Z"
+                    },
+                    "name": "Vegas.com",
+                    "summary": "• Supervised a technical support team, ensuring timely resolution of user issues. • Deployed and managed endpoint management systems to optimize workstation performance. • Conducted regular reviews of technician tickets and phone calls to identify areas for improvement. • Researched and recommended new hardware and software for company workstations and peripherals. • Ensured timely implementation of security updates for company workstations and non-production servers. • Maintained computing standards following PCI requirements to support successful audits.",
+                    "position": "Desktop Support Supervisor"
+                },
+                {
+                    "id": "99dcec01-b9ef-405f-87ee-c5d118a49de2",
+                    "date": {
+                        "end": "2018-06-01T00:00:00.000Z",
+                        "start": "2014-07-01T00:00:00.000Z"
+                    },
+                    "name": "Vegas.com",
+                    "summary": "• Conducted troubleshooting on hardware and software systems to identify and resolve issues quickly. • Managed the deployment and replacement of hardware and software systems at corporate offices, hotels, and casinos. • Administered user accounts within Active Directory and Microsoft Exchange, ensuring proper access and security. • Researched and recommended new equipment and software, including desktop systems, printers, scanners, monitors, and other peripherals. • Ensured regular updates and backups of servers in a primarily Windows Server 2008 environment. • Installed, updated, and maintained server-based software to support efficient system performance. • Provisioned and deployed smartphones, including Blackberry, iPhone, and Android devices, for company use.",
+                    "position": "Desktop Support Technician/ Tier 1 Admin"
+                },
+                {
+                    "id": "1d39fac9-6d79-43ee-9046-f7cdf088b2e0",
+                    "date": {
+                        "end": "2015-04-01T00:00:00.000Z",
+                        "start": "2012-06-01T00:00:00.000Z"
+                    },
+                    "name": "The Madrid Agency of Farmers Insurance",
+                    "summary": "•\tHiring and training of new employees. •\tLead generation for insuring local businesses and households. •\tTelemarketing. •\tBuild relationships with center's of influence. •\tWriting and Mailing Ad Copy. •\tAppointment Setting. •\tCustomer Service. •\tClosing 20 new business policies per month.",
+                    "position": "New Business Development"
+                },
+                {
+                    "id": "23830655-8661-4843-9cee-81de7e0d2889",
+                    "date": {
+                        "end": "2012-06-01T00:00:00.000Z",
+                        "start": "2010-09-01T00:00:00.000Z"
+                    },
+                    "name": "Vegas.com",
+                    "summary": "•\tPerformed second level troubleshooting on hardware & software systems problems. •\tDeployed and replaced various hardware and software systems in the corporate offices as well as hotels and casinos. •\tCreated, managed, and deleted user accounts within Active Directory and Microsoft Exchange. •\tResearched, ordered, and deployed new equipment and software.  Desktop systems, printers, scanners, monitors, peripherals, etc. •\tUpdate and back up servers as needed.  Primarily in a Windows Server 2008 environment. •\tInstalled, updated, and maintained server based software. •\tProvisioned and deployed smart phones, such as Blackberry, Iphone, and Android. •\tAssisted in training new Desktop Support Technicians.",
+                    "position": "Desktop Support Technician / Tier 1 Admin"
+                },
+                {
+                    "id": "2b441b48-6674-4a10-9565-f213074b47bb",
+                    "date": {
+                        "end": "2010-09-01T00:00:00.000Z",
+                        "start": "2008-07-01T00:00:00.000Z"
+                    },
+                    "name": "Vegas.com",
+                    "summary": "•\tPerformed first-level core troubleshooting on hardware & software systems problems. •\tAnswered questions, provided technical solutions, and followed up to assist users in solving their information systems problems in a continuous user-support environment. •\tDocumented user problems, resolution, and new solutions for future reference using helpdesk tools and resources, such as Frontrange and our own Proprietary Helpdesk Wiki. •\tAssisted in identifying trends in continuing hardware, software or systems problems. •\tCoordinated with other departments such as Systems Engineering, Network Engineering, and Production Support to resolve emergency companywide issues in a 24hr environment. •\tManaged user accounts with Active Directory. •\tAssisted in training new Helpdesk Technicians.",
+                    "position": "Help Desk Technician"
+                },
+                {
+                    "id": "f8f4ad71-9d3c-4ee9-9e5b-3ca48ffd5641",
+                    "date": {
+                        "end": "2007-01-01T00:00:00.000Z",
+                        "start": "2004-01-01T00:00:00.000Z"
+                    },
+                    "name": "Starbucks Coffee Company",
+                    "summary": "**Performed first-level core troubleshooting on hardware & software **systems problems. **Answered questions, provided technical solutions, and followed up to assist users in solving their information systems problems in a continuous user-support environment. **Documented user problems, resolution, and new solutions for future reference using EHD tools and resources, such as Remedy and Primus. **Assisted in identifying trends in continuing hardware, software or systems problems. **Monitored and reported on store polling issues, regarding sales and payroll upload. **Assisted in training new EHD Analysts.",
+                    "position": "Help Desk Analyst"
+                },
+                {
+                    "id": "2fcf2adb-af4b-402b-985a-0c439d519679",
+                    "date": {
+                        "end": "2004-01-01T00:00:00.000Z",
+                        "start": "2003-01-01T00:00:00.000Z"
+                    },
+                    "name": "Starbucks Coffee Company",
+                    "summary": "•\tCorrespond with external consumers by acknowledging praises or offering service recovery for complaints. •\tAchieved Q3 – 2004 Legendary Service Award & Bravo Award for facilitating CRM software rollout. •\tConducted department wide and new hire training on new customer relations management software & procedures. •\tDevelop new templates to incorporate the “You-Attitude” style of persuasive writing. •\tRecommended on numerous occasions by supervisor to help train and solve light technical issues. •\tTrain new employees on Starbucks CRM procedures and software.",
+                    "position": "Customer Contact Center Trainer"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "b8e34f20-660a-4dfd-9f32-75491f904aab",
+                    "name": "JavaScript",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 8
+                },
+                {
+                    "id": "d46ee159-6129-47ba-9031-b2cbe07ea0d1",
+                    "name": "PowerShell",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "952317ff-4856-41b7-ac70-01e8759f478c",
+                    "name": "HTML",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 9
+                },
+                {
+                    "id": "bdf58e9c-4ab4-4fc5-ba91-1c4539c7395f",
+                    "name": "CSS",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 8
+                },
+                {
+                    "id": "7129a4c5-3bda-41ed-a7e0-0b8fd47e75e1",
+                    "name": "Python",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 6
+                },
+                {
+                    "id": "9c564c5b-dd46-4190-b3bd-3dc69cac5fe5",
+                    "name": "Active Directory",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 9
+                },
+                {
+                    "id": "a66754d9-4862-4648-84ff-75930398de4d",
+                    "name": "Technical Support",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 10
+                },
+                {
+                    "id": "d332c2fc-a02e-4a58-8bf3-b382879312e6",
+                    "name": "Help Desk Support",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 10
+                },
+                {
+                    "id": "03414728-3b77-4208-8184-3fe7a888c67b",
+                    "name": "Desktop Application Support",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 10
+                },
+                {
+                    "id": "3285b555-f029-45f3-9e4f-6af38a288b7e",
+                    "name": "Servers",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "abce8145-4eb5-45d0-853d-b62f2b4b2353",
+                    "name": "Troubleshooting",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 10
+                },
+                {
+                    "id": "0f421bad-6a9e-4d62-ac04-19b4fe73e233",
+                    "name": "System Administration",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "eb25d63f-39cf-4e7a-bcea-7a925cc1038b",
+                    "name": "Microsoft Exchange",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 8
+                },
+                {
+                    "id": "a5089996-e1e5-4457-abb1-115d5213db60",
+                    "name": "Windows Server",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "43a3e961-a9f5-4c77-837c-9329badc8692",
+                    "name": "Management",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 8
+                },
+                {
+                    "id": "01654f4d-7799-4839-982c-0ebf66da2233",
+                    "name": "Networking",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "3bf81ace-f156-4986-b321-add703b206d4",
+                    "name": "Security",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "education": {
+            "id": "education",
+            "name": "Education",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "b9db4317-20d3-463b-b150-2555ab4174f1",
+                    "area": "Technical Management",
+                    "date": {
+                        "end": "2004-01-01T00:00:00.000Z",
+                        "start": "2002-01-01T00:00:00.000Z"
+                    },
+                    "degree": "Bachelors of Science",
+                    "courses": [],
+                    "institution": "DeVry"
+                },
+                {
+                    "id": "a751b6d3-db0a-49fd-b7e3-af7c50a38a01",
+                    "area": "Computer Science",
+                    "date": {
+                        "end": "2001-01-01T00:00:00.000Z",
+                        "start": "1999-01-01T00:00:00.000Z"
+                    },
+                    "degree": "Associates",
+                    "courses": [],
+                    "institution": "Education America"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "languages": {
+            "id": "languages",
+            "name": "Languages",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "Volunteer Experience",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "references": {
+            "id": "references",
+            "name": "References",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "publications": {
+            "id": "publications",
+            "name": "Publications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "certifications": {
+            "id": "certifications",
+            "name": "Certifications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "/* Enter custom CSS here */\n\n* {\n    outline: 1px solid #000;\n}",
+            "visible": false
+        },
+        "date": {
+            "format": "MMMM DD, YYYY"
+        },
+        "page": {
+            "format": "A4"
+        },
+        "theme": {
+            "text": "#000000",
+            "primary": "#673ab7",
+            "background": "#ffffff"
+        },
+        "layout": [
+            [
+                [
+                    "work",
+                    "education",
+                    "projects",
+                    "volunteer",
+                    "references"
+                ],
+                [
+                    "skills",
+                    "interests",
+                    "languages",
+                    "awards",
+                    "certifications",
+                    "publications"
+                ]
+            ]
+        ],
+        "locale": "en",
+        "template": "kakuna",
+        "typography": {
+            "size": {
+                "body": 14,
+                "heading": 28
+            },
+            "family": {
+                "body": "Open Sans",
+                "heading": "Open Sans"
+            }
+        }
+    },
+    "public": true
+}

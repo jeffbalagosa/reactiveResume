@@ -91,26 +91,6 @@
                     "name": "Vegas.com",
                     "summary": "•\tPerformed first-level core troubleshooting on hardware & software systems problems. •\tAnswered questions, provided technical solutions, and followed up to assist users in solving their information systems problems in a continuous user-support environment. •\tDocumented user problems, resolution, and new solutions for future reference using helpdesk tools and resources, such as Frontrange and our own Proprietary Helpdesk Wiki. •\tAssisted in identifying trends in continuing hardware, software or systems problems. •\tCoordinated with other departments such as Systems Engineering, Network Engineering, and Production Support to resolve emergency companywide issues in a 24hr environment. •\tManaged user accounts with Active Directory. •\tAssisted in training new Helpdesk Technicians.",
                     "position": "Help Desk Technician"
-                },
-                {
-                    "id": "f8f4ad71-9d3c-4ee9-9e5b-3ca48ffd5641",
-                    "date": {
-                        "end": "2007-01-01T00:00:00.000Z",
-                        "start": "2004-01-01T00:00:00.000Z"
-                    },
-                    "name": "Starbucks Coffee Company",
-                    "summary": "**Performed first-level core troubleshooting on hardware & software **systems problems. **Answered questions, provided technical solutions, and followed up to assist users in solving their information systems problems in a continuous user-support environment. **Documented user problems, resolution, and new solutions for future reference using EHD tools and resources, such as Remedy and Primus. **Assisted in identifying trends in continuing hardware, software or systems problems. **Monitored and reported on store polling issues, regarding sales and payroll upload. **Assisted in training new EHD Analysts.",
-                    "position": "Help Desk Analyst"
-                },
-                {
-                    "id": "2fcf2adb-af4b-402b-985a-0c439d519679",
-                    "date": {
-                        "end": "2004-01-01T00:00:00.000Z",
-                        "start": "2003-01-01T00:00:00.000Z"
-                    },
-                    "name": "Starbucks Coffee Company",
-                    "summary": "•\tCorrespond with external consumers by acknowledging praises or offering service recovery for complaints. •\tAchieved Q3 – 2004 Legendary Service Award & Bravo Award for facilitating CRM software rollout. •\tConducted department wide and new hire training on new customer relations management software & procedures. •\tDevelop new templates to incorporate the “You-Attitude” style of persuasive writing. •\tRecommended on numerous occasions by supervisor to help train and solve light technical issues. •\tTrain new employees on Starbucks CRM procedures and software.",
-                    "position": "Customer Contact Center Trainer"
                 }
             ],
             "columns": 1,
@@ -295,7 +275,33 @@
             "id": "interests",
             "name": "Interests",
             "type": "basic",
-            "items": [],
+            "items": [
+                {
+                    "name": "Brazilian Jiu Jitsu Blackbelt and Instructor",
+                    "keywords": [],
+                    "id": "91f69884-39d9-4fe0-8b44-6c5d7b0e4c9a"
+                },
+                {
+                    "name": "Console and PC Gaming",
+                    "keywords": [],
+                    "id": "1281caa0-a475-4243-9968-570cb8ba147d"
+                },
+                {
+                    "name": "Neuroscience",
+                    "keywords": [],
+                    "id": "7822e027-50d8-4aaf-9e7c-13d9651a495e"
+                },
+                {
+                    "name": "Generative AI",
+                    "keywords": [],
+                    "id": "0292f8e9-194a-4626-b521-d9b23db3d0ea"
+                },
+                {
+                    "name": "Stoicism",
+                    "keywords": [],
+                    "id": "6e5d02c6-9da1-42ec-827a-421065e10a5f"
+                }
+            ],
             "columns": 2,
             "visible": true
         },
@@ -353,7 +359,7 @@
         },
         "theme": {
             "text": "#000000",
-            "primary": "#673ab7",
+            "primary": "#D2B48C",
             "background": "#ffffff"
         },
         "layout": [
@@ -376,7 +382,7 @@
             ]
         ],
         "locale": "en",
-        "template": "kakuna",
+        "template": "glalie",
         "typography": {
             "size": {
                 "body": 14,

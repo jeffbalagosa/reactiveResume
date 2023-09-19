@@ -1,13 +1,13 @@
 {
     "basics": {
-        "name": "Jeffrey Balagosa",
+        "name": "Jeff Balagosa",
         "email": "jeff.balagosa@gmail.com",
-        "phone": "",
+        "phone": "702-686-452",
         "photo": {
-            "url": "https://cdn.rxresu.me/uploads/346112/343766/1677605570387.png",
+            "url": "https://cdn.rxresu.me/uploads/346112/343766/1695086558715.jpg",
             "filters": {
-                "size": 128,
-                "shape": "square",
+                "size": 168,
+                "shape": "circle",
                 "border": false,
                 "grayscale": false
             },
@@ -15,7 +15,7 @@
         },
         "summary": "Experienced Desktop Support Manager with 18+ years of technical leadership and management skills. Seeking transition to Web Development. Proficient in HTML, CSS, JavaScript, and Python, with a strong understanding of operating systems and network architecture. Skilled in project management and cross-functional collaboration. Passionate about learning new technologies and frameworks.",
         "website": "https://grapplingwithsyntax.com/",
-        "headline": "Professional IT Expert",
+        "headline": "Professional Technology Expert",
         "location": {
             "city": "Las Vegas",
             "region": "NV",
@@ -39,7 +39,7 @@
                         "start": "2019-07-01T00:00:00.000Z"
                     },
                     "name": "Vegas.com",
-                    "summary": "• Developed custom tools to automate tasks and improve efficiency, leveraging programming languages such as JavaScript, Python, PowerShell, AutoHotkey, and Ansible. • Managed a desktop support team, motivating them to complete assigned tasks before deadlines. • Implemented and deployed endpoint management systems to ensure the smooth operation of company workstations. • Reviewed and provided technical support for team tickets and phone calls. • Conducted research, ordered, and deployed new hardware and software for desktop systems, printers, scanners, and other peripherals. • Maintained security updates for company workstations and non-production servers while ensuring that computing standards met PCI requirements for audits.",
+                    "summary": "- Developed custom tools to automate tasks and improve efficiency, leveraging programming languages such as JavaScript, Python, PowerShell, AutoHotkey, and Ansible.\n- Managed a desktop support team, motivating them to complete assigned tasks before deadlines.\n- Implemented and deployed endpoint management systems to ensure the smooth operation of company workstations.\n- Reviewed and provided technical support for team tickets and phone calls.\n- Conducted research, ordered, and deployed new hardware and software for desktop systems, printers, scanners, and other peripherals.\n- Maintained security updates for company workstations and non-production servers while ensuring that computing standards met PCI requirements for audits.",
                     "position": "Desktop Support Manager"
                 },
                 {
@@ -49,7 +49,7 @@
                         "start": "2018-06-01T00:00:00.000Z"
                     },
                     "name": "Vegas.com",
-                    "summary": "• Supervised a technical support team, ensuring timely resolution of user issues. • Deployed and managed endpoint management systems to optimize workstation performance. • Conducted regular reviews of technician tickets and phone calls to identify areas for improvement. • Researched and recommended new hardware and software for company workstations and peripherals. • Ensured timely implementation of security updates for company workstations and non-production servers. • Maintained computing standards following PCI requirements to support successful audits.",
+                    "summary": "- Supervised a technical support team, ensuring timely resolution of user issues.\n- Deployed and managed endpoint management systems to optimize workstation performance.\n- Conducted regular reviews of technician tickets and phone calls to identify areas for improvement.\n- Researched and recommended new hardware and software for company workstations and peripherals.\n- Ensured timely implementation of security updates for company workstations and non-production servers.\n- Maintained computing standards following PCI requirements to support successful audits.",
                     "position": "Desktop Support Supervisor"
                 },
                 {
@@ -59,7 +59,7 @@
                         "start": "2014-07-01T00:00:00.000Z"
                     },
                     "name": "Vegas.com",
-                    "summary": "• Conducted troubleshooting on hardware and software systems to identify and resolve issues quickly. • Managed the deployment and replacement of hardware and software systems at corporate offices, hotels, and casinos. • Administered user accounts within Active Directory and Microsoft Exchange, ensuring proper access and security. • Researched and recommended new equipment and software, including desktop systems, printers, scanners, monitors, and other peripherals. • Ensured regular updates and backups of servers in a primarily Windows Server 2008 environment. • Installed, updated, and maintained server-based software to support efficient system performance. • Provisioned and deployed smartphones, including Blackberry, iPhone, and Android devices, for company use.",
+                    "summary": "- Conducted troubleshooting on hardware and software systems to identify and resolve issues quickly.\n- Managed the deployment and replacement of hardware and software systems at corporate offices, hotels, and casinos.\n- Administered user accounts within Active Directory and Microsoft Exchange, ensuring proper access and security.\n- Researched and recommended new equipment and software, including desktop systems, printers, scanners, monitors, and other peripherals.\n- Ensured regular updates and backups of servers in a primarily Windows Server 2008 environment.\n- Installed, updated, and maintained server-based software to support efficient system performance.\n- Provisioned and deployed smartphones, including Blackberry, iPhone, and Android devices, for company use.",
                     "position": "Desktop Support Technician/ Tier 1 Admin"
                 },
                 {
@@ -69,7 +69,7 @@
                         "start": "2012-06-01T00:00:00.000Z"
                     },
                     "name": "The Madrid Agency of Farmers Insurance",
-                    "summary": "•\tHiring and training of new employees. •\tLead generation for insuring local businesses and households. •\tTelemarketing. •\tBuild relationships with center's of influence. •\tWriting and Mailing Ad Copy. •\tAppointment Setting. •\tCustomer Service. •\tClosing 20 new business policies per month.",
+                    "summary": "- Amplified our team with expert hiring and training.\n- Dominated the local market with targeted lead generation for businesses and households.\n- Drove results through effective telemarketing campaigns.\n- Built valuable relationships with centers of influence.\n- Captured attention with compelling ad copy and strategic direct mail.\n- Secured appointments with qualified prospects through professional 3rd party services.\n- Delivered exceptional customer service and fostered loyalty.\n- Achieved consistent growth with 20 new business policies closed monthly.",
                     "position": "New Business Development"
                 },
                 {
@@ -79,7 +79,7 @@
                         "start": "2010-09-01T00:00:00.000Z"
                     },
                     "name": "Vegas.com",
-                    "summary": "•\tPerformed second level troubleshooting on hardware & software systems problems. •\tDeployed and replaced various hardware and software systems in the corporate offices as well as hotels and casinos. •\tCreated, managed, and deleted user accounts within Active Directory and Microsoft Exchange. •\tResearched, ordered, and deployed new equipment and software.  Desktop systems, printers, scanners, monitors, peripherals, etc. •\tUpdate and back up servers as needed.  Primarily in a Windows Server 2008 environment. •\tInstalled, updated, and maintained server based software. •\tProvisioned and deployed smart phones, such as Blackberry, Iphone, and Android. •\tAssisted in training new Desktop Support Technicians.",
+                    "summary": "- Performed second level troubleshooting on hardware & software systems problems.\n- Deployed and replaced various hardware and software systems in the corporate offices as well as hotels and casinos.\n- Created, managed, and deleted user accounts within Active Directory and Microsoft Exchange.\n- Researched, ordered, and deployed new equipment and software. Desktop systems, printers, scanners, monitors, peripherals, etc.\n- Update and back up servers as needed. Primarily in a Windows Server 2008 environment.\n- Installed, updated, and maintained server-based software.\n- Provisioned and deployed smartphones, such as Blackberry, iPhone, and Android.\n- Assisted in training new Desktop Support Technicians.",
                     "position": "Desktop Support Technician / Tier 1 Admin"
                 },
                 {
@@ -89,7 +89,7 @@
                         "start": "2008-07-01T00:00:00.000Z"
                     },
                     "name": "Vegas.com",
-                    "summary": "•\tPerformed first-level core troubleshooting on hardware & software systems problems. •\tAnswered questions, provided technical solutions, and followed up to assist users in solving their information systems problems in a continuous user-support environment. •\tDocumented user problems, resolution, and new solutions for future reference using helpdesk tools and resources, such as Frontrange and our own Proprietary Helpdesk Wiki. •\tAssisted in identifying trends in continuing hardware, software or systems problems. •\tCoordinated with other departments such as Systems Engineering, Network Engineering, and Production Support to resolve emergency companywide issues in a 24hr environment. •\tManaged user accounts with Active Directory. •\tAssisted in training new Helpdesk Technicians.",
+                    "summary": "- Performed first-level core troubleshooting on hardware & software systems problems.\n- Answered questions, provided technical solutions, and followed up to assist users in solving their information systems problems in a continuous user-support environment.\n- Documented user problems, resolution, and new solutions for future reference using helpdesk tools and resources, such as Frontrange and our own Proprietary Helpdesk Wiki.\n- Assisted in identifying continuing hardware, software, or systems problems trends.\n- Coordinated with other departments such as Systems Engineering, Network Engineering, and Production Support to resolve companywide emergency issues in a 24hr environment.\n- Managed user accounts with Active Directory.\n- Assisted in training new Helpdesk Technicians.",
                     "position": "Help Desk Technician"
                 }
             ],
@@ -246,6 +246,20 @@
             "type": "basic",
             "items": [
                 {
+                    "id": "06927747-f1ea-4bb8-a23b-a9becf2c0197",
+                    "url": "https://www.galvanize.com/hack-reactor/beginner/full-time-bootcamp/",
+                    "area": "Full-Stack Software Engineering",
+                    "date": {
+                        "end": "2023-12-22",
+                        "start": "2023-08-07"
+                    },
+                    "score": "",
+                    "degree": "Certificate of Graduation",
+                    "courses": [],
+                    "summary": "- Elevated my Python programming proficiency through rigorous training modules and hands-on coding challenges.\n- Honed problem-solving skills in software development, demonstrating the ability to troubleshoot and optimize code.\n- Achieved a perfect score on the first full-stack application project, a project management tool built using Django, CSS, and JavaScript; included a dark mode feature for enhanced user experience.\n- Scored 98% on the first comprehensive exam, underscoring a strong grasp of software engineering fundamentals.",
+                    "institution": "Hack Reactor"
+                },
+                {
                     "id": "b9db4317-20d3-463b-b150-2555ab4174f1",
                     "area": "Technical Management",
                     "date": {
@@ -254,7 +268,8 @@
                     },
                     "degree": "Bachelors of Science",
                     "courses": [],
-                    "institution": "DeVry"
+                    "summary": "- Earned a Bachelor's in Technical Management from DeVry University, providing a solid foundation in project management, operations, and team leadership.\n- Acquired business analytics and strategy formulation skills, enabling effective problem-solving in technical environments.\n- Developed interdisciplinary knowledge that bridges the gap between technology and management, enhancing the ability to lead tech-driven projects effectively.",
+                    "institution": "DeVry University"
                 },
                 {
                     "id": "a751b6d3-db0a-49fd-b7e3-af7c50a38a01",
@@ -265,6 +280,7 @@
                     },
                     "degree": "Associates",
                     "courses": [],
+                    "summary": "Awarded an Associate's in Computer Science from Education America, laying the groundwork for a technology and software development career.\nGained early exposure to programming languages, notably C++, providing an initial skill set for subsequent technical roles and educational pursuits.\nAcquired fundamental knowledge in algorithms, data structures, and software engineering concepts, offering a long-term basis for skills in technical problem-solving.",
                     "institution": "Education America"
                 }
             ],
@@ -277,29 +293,29 @@
             "type": "basic",
             "items": [
                 {
+                    "id": "91f69884-39d9-4fe0-8b44-6c5d7b0e4c9a",
                     "name": "Brazilian Jiu Jitsu Blackbelt and Instructor",
-                    "keywords": [],
-                    "id": "91f69884-39d9-4fe0-8b44-6c5d7b0e4c9a"
+                    "keywords": []
                 },
                 {
+                    "id": "1281caa0-a475-4243-9968-570cb8ba147d",
                     "name": "Console and PC Gaming",
-                    "keywords": [],
-                    "id": "1281caa0-a475-4243-9968-570cb8ba147d"
+                    "keywords": []
                 },
                 {
+                    "id": "7822e027-50d8-4aaf-9e7c-13d9651a495e",
                     "name": "Neuroscience",
-                    "keywords": [],
-                    "id": "7822e027-50d8-4aaf-9e7c-13d9651a495e"
+                    "keywords": []
                 },
                 {
-                    "name": "Generative AI",
-                    "keywords": [],
-                    "id": "0292f8e9-194a-4626-b521-d9b23db3d0ea"
+                    "id": "0292f8e9-194a-4626-b521-d9b23db3d0ea",
+                    "name": "Automation & Productivity",
+                    "keywords": []
                 },
                 {
+                    "id": "6e5d02c6-9da1-42ec-827a-421065e10a5f",
                     "name": "Stoicism",
-                    "keywords": [],
-                    "id": "6e5d02c6-9da1-42ec-827a-421065e10a5f"
+                    "keywords": []
                 }
             ],
             "columns": 2,
@@ -382,7 +398,8 @@
             ]
         ],
         "locale": "en",
-        "template": "glalie",
+        "language": "en",
+        "template": "onyx",
         "typography": {
             "size": {
                 "body": 14,
